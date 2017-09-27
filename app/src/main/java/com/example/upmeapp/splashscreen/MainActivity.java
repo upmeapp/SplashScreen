@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
     private void Test(){
 
         int i = 1+1;
+        int ii = 2-2;
+        int ooo = 3-1;
     }
 }
 
